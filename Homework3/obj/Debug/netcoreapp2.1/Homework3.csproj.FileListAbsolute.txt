@@ -1,0 +1,10 @@
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\bin\Debug\netcoreapp2.1\Homework3.deps.json
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\bin\Debug\netcoreapp2.1\Homework3.runtimeconfig.json
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\bin\Debug\netcoreapp2.1\Homework3.runtimeconfig.dev.json
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\bin\Debug\netcoreapp2.1\Homework3.dll
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\bin\Debug\netcoreapp2.1\Homework3.pdb
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\obj\Debug\netcoreapp2.1\Homework3.csprojAssemblyReference.cache
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\obj\Debug\netcoreapp2.1\Homework3.AssemblyInfoInputs.cache
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\obj\Debug\netcoreapp2.1\Homework3.AssemblyInfo.cs
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\obj\Debug\netcoreapp2.1\Homework3.dll
+C:\Users\annel\Google Drive\School\Programmeerimine3\Homework3\obj\Debug\netcoreapp2.1\Homework3.pdb
